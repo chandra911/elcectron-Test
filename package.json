@@ -1,12 +1,12 @@
 {
-  "name": "electron-quick-start",
+  "name": "elcectron-Test",
   "version": "1.0.0",
   "description": "A minimal Electron application",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/chandra911/elcectron-Test.git",
   "keywords": [
     "Electron",
     "quick",
